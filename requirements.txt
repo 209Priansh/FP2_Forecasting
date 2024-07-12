@@ -1,0 +1,13 @@
+requests
+pandas
+matplotlib
+seaborn
+statsmodels
+scikit-learn
+tpot
+mlflow
+AutoTS
+fastapi
+uvicorn
+pydantic
+openpyxl

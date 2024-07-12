@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Prashant/ISB/TERM5/FP2_Forecasting/mlruns/0/dd26cf6ae9e5477ba3464e80870d3a88/artifacts
+end_time: 1720767704446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd26cf6ae9e5477ba3464e80870d3a88
+run_name: crawling-wren-919
+run_uuid: dd26cf6ae9e5477ba3464e80870d3a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720767704367
+status: 3
+tags: []
+user_id: namra

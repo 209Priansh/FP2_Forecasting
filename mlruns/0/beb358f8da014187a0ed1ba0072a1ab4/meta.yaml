@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Prashant/ISB/TERM5/FP2_Forecasting/mlruns/0/beb358f8da014187a0ed1ba0072a1ab4/artifacts
+end_time: 1720774779616
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: beb358f8da014187a0ed1ba0072a1ab4
+run_name: serious-fish-745
+run_uuid: beb358f8da014187a0ed1ba0072a1ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720774779553
+status: 3
+tags: []
+user_id: namra

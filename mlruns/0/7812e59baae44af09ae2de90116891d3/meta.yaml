@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Prashant/ISB/TERM5/FP2_Forecasting/mlruns/0/7812e59baae44af09ae2de90116891d3/artifacts
+end_time: 1720779696717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7812e59baae44af09ae2de90116891d3
+run_name: skittish-cod-328
+run_uuid: 7812e59baae44af09ae2de90116891d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720779696638
+status: 3
+tags: []
+user_id: namra

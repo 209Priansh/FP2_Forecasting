@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Prashant/ISB/TERM5/FP2_Forecasting/mlruns/0/8f5362cf96674e6db92a14fd527a8600/artifacts
+end_time: 1720813400725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f5362cf96674e6db92a14fd527a8600
+run_name: silent-penguin-162
+run_uuid: 8f5362cf96674e6db92a14fd527a8600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720813400635
+status: 3
+tags: []
+user_id: namra

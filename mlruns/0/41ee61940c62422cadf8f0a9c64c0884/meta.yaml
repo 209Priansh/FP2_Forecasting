@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Prashant/ISB/TERM5/FP2_Forecasting/mlruns/0/41ee61940c62422cadf8f0a9c64c0884/artifacts
+end_time: 1720804514254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41ee61940c62422cadf8f0a9c64c0884
+run_name: enchanting-pig-726
+run_uuid: 41ee61940c62422cadf8f0a9c64c0884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720804514159
+status: 3
+tags: []
+user_id: namra

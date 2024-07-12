@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Prashant/ISB/TERM5/FP2_Forecasting/mlruns/0/d80a927cce3a4b18b2d86b38ce071f65/artifacts
+end_time: 1720769943010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d80a927cce3a4b18b2d86b38ce071f65
+run_name: gentle-robin-649
+run_uuid: d80a927cce3a4b18b2d86b38ce071f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720769942963
+status: 3
+tags: []
+user_id: namra
